@@ -5,7 +5,7 @@ local colorscheme = require('user.plugins.catppuccin')
 lvim.plugins = {
   colorscheme,
   require('user.plugins.copilot'),
-  require('user.plugins.nvim-transparent'),
+  require('user.plugins.transparent'),
   require('user.plugins.lsp-inlayhints'),
   require('user.plugins.rust-tools'),
   require('user.plugins.auto-save'),
